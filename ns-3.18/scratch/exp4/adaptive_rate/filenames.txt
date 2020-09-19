@@ -1,0 +1,25 @@
+10-Average Jitter.dat
+8-Average Throughput.dat
+4-Average Jitter.dat
+6-Average Jitter.dat
+10-Average Throughput.dat
+2-Total Throughput.dat
+4-Average Delay.dat
+8-Total Throughput.dat
+4-Average Throughput.dat
+8-Average Jitter.dat
+6-Total Throughput.dat
+10-Total Throughput.dat
+4-Total Throughput.dat
+2-Average Jitter.dat
+6-Average Delay.dat
+6-Average Packet Delivery Ratio.dat
+2-Average Packet Delivery Ratio.dat
+10-Average Delay.dat
+2-Average Throughput.dat
+4-Average Packet Delivery Ratio.dat
+10-Average Packet Delivery Ratio.dat
+6-Average Throughput.dat
+8-Average Packet Delivery Ratio.dat
+2-Average Delay.dat
+8-Average Delay.dat
